@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ccc;
+    padding: 20px;
+    overflow: hidden;
+    text-align: center;
+    font-size: "50";
+
+}
+
+
+.contact-info {
+    float: left;
+    width: 50%;
+}
+
+.contact-image {
+    float: right;
+    width: 50%;
+}
+
+h1 {
+    text-align: center;
+    color: #0b0b0b;
+}
+
+h2 {
+    color: #555;
+}
+
+footer {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
